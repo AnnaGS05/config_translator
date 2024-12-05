@@ -1,0 +1,3 @@
+var numbers = (1, 2, 3, 4, 5)
+var sorted_numbers = @{sort(numbers)}
+var sum_of_numbers = @{sum(numbers)}
