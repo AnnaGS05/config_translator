@@ -106,9 +106,9 @@ python -m unittest tester.py
 
 ## Результат работы программы
 
-![image](https://github.com/user-attachments/assets/f44ad191-d492-4dc8-8ef5-17049cb1a619)
+![image](https://github.com/user-attachments/assets/496a6d91-86b8-4817-a8d1-f9f7dd60b731)
 
-![image](https://github.com/user-attachments/assets/2005e642-2f71-490e-a8a2-c412d39663e2)
+![image](https://github.com/user-attachments/assets/6bc54c3e-efc4-4e8e-86ab-68307bc8bf37)
 
 ![image](https://github.com/user-attachments/assets/b5f37481-ad5e-4579-8465-250b416d4b51)
 
